@@ -74,3 +74,31 @@ TOGETHER_API_KEY = <your_together_api_key>
 See `main.py` for an example of how to run games and simulations.
 
 *Note: by default, a dummy llm and embedding model are selected. You can change this at the top of `main.py`.*
+
+## Contributors
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/mpianrhko">
+        <img src="https://github.com/mpianrhko.png" width="100px;" alt="mpianrhko"/>
+        <br />
+        <sub><b>mpianrhko</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/hqrris0n">
+        <img src="https://github.com/hqrris0n.png" width="100px;" alt="hqrris0n"/>
+        <br />
+        <sub><b>hqrris0n</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/123jklas">
+        <img src="https://github.com/123jklas.png" width="100px;" alt="123jklas"/>
+        <br />
+        <sub><b>123jklas</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
